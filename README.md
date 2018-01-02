@@ -15,7 +15,7 @@ This is implementation of NIPS 2017 Paper [Selective Classification For Deep Neu
 - ImageNet validation dataset can be downloaded from [here](http://www.image-net.org/challenges/LSVRC/2012/nonpub-downloads).
 - ILSVRC2012_validation_ground_truth.txt contains ground truth labels for ImageNet validation dataset.
 - imagenet-classes-dict.dat is a pickle dictionary, if you input a class you get a number from 1 to 1000 corresponding to the ground truth   in the ILSVRC2012_validation_ground_truth.txt file.
-- The weights of the model trained as suggested in paper on CIFAR-10 and CIFAR-100 datasets can be downloaded from [CIFAR-10 WEIGHTS](https://drive.google.com/open?id=14L6j0jtNDibhKTtMdr6OtHCV_wVonRtu) and [CIFAR-100 WEIGHTS](https://drive.google.com/open?id=19n10aUsTc8vxUCHFw_wfRvCt-L1vhQfG).
+- The weights of the model trained as suggested in paper on CIFAR-10 and CIFAR-100 datasets can be downloaded from [CIFAR-10 WEIGHTS](https://drive.google.com/open?id=14L6j0jtNDibhKTtMdr6OtHCV_wVonRtu)(93.67% accuracy)and [CIFAR-100 WEIGHTS](https://drive.google.com/open?id=19n10aUsTc8vxUCHFw_wfRvCt-L1vhQfG)(70.52% accuracy).
 
 ### Evaluation
 
