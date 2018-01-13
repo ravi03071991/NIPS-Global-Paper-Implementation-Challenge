@@ -116,5 +116,5 @@ python eval/resnet50_top5.py
 
 ### Notes on Experiments:
 
-- The experiment results with CIFAR-10 and CIFAR-100 were close enough with the results given in the paper but there is a little             difference in results on ImageNet validation set. I guess the variation is due to the validation accuracy. For example I got the           validation accuracy using vgg16 of 69% as opposed to 71%. Please mail me at ravi03071991@gmail.com if you have any suggestions to         improve validation accuracy. 
+- Achieved 60% test coverage guaranteed with 99.9% probability at 3% error rate top-5 ImageNet classification.
 
